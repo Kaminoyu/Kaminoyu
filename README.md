@@ -81,4 +81,4 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 }
 ```
 ### Biên dịch và chạy chương trình
-
+- Biên dịch và chạy chương trình. Nếu mọi thứ đều chính xác, bạn sẽ thấy một cửa sổ được hiển thị với tiêu đề là **SampleWindow**.
